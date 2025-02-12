@@ -3,19 +3,29 @@ OSINT Vulnerability Scanner 🔎💻
 Este proyecto está diseñado para realizar investigaciones OSINT de equipos con vulnerabilidades, utilizando el motor de búsqueda de Shodan. Permite identificar dispositivos expuestos en un país específico, recopilando información clave como:
 
 ✅ IP del equipo
+
 ✅ Puertos abiertos y servicios activos
+
 ✅ Vulnerabilidades conocidas (CVE)
+
 ✅ Posibles exploits en Metasploit
+
 ✅ Proveedor de servicio (ISP) y organización
 
 Los resultados se guardan en un archivo CSV estructurado, listo para ser analizado en herramientas de visualización como Power BI, lo que facilita el análisis de la cantidad de equipos vulnerables en una región determinada.
 
 📌 Características principales:
+
 ✔️ Interfaz gráfica intuitiva (Tkinter).
+
 ✔️ Selección del país y tiempo de escaneo.
+
 ✔️ Progreso en tiempo real dentro de la interfaz.
+
 ✔️ Reporte detallado en CSV.
+
 ✔️ Proyecto con fines éticos para concienciar sobre la seguridad en dispositivos expuestos en internet.
+
 ✅ Proveedor de servicio (ISP) y organización
 
 ⚠️ Requisitos:
