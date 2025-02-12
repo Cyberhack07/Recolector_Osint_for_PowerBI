@@ -20,8 +20,6 @@ Los resultados se guardan en un archivo CSV estructurado, listo para ser analiza
 
 ✔️ Selección del país y tiempo de escaneo.
 
-✔️ Progreso en tiempo real dentro de la interfaz.
-
 ✔️ Reporte detallado en CSV.
 
 ✔️ Proyecto con fines éticos para concienciar sobre la seguridad en dispositivos expuestos en internet.
